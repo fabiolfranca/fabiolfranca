@@ -8,7 +8,7 @@
   <a href="https://github.com/fabiolfranca">
     <img src="https://img.shields.io/badge/GitHub-fabiolfranca-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/fabio-franca-41562b234/">
+  <a href="https://www.linkedin.com/in/fabio-franca-data/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fabiolfranca.github.io">
@@ -120,7 +120,7 @@ I'm always open to connecting with people who share an interest in data, technol
 Whether it's discussing ideas, sharing experiences, exploring opportunities or simply exchanging knowledge, feel free to reach out!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fabio-franca-41562b234/">
+  <a href="https://www.linkedin.com/in/fabio-franca-data/">
     <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/fabiolfranca">
