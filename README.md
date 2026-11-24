@@ -1,4 +1,4 @@
-# Fábio França | Data Analytics & Quantitative Research
+# Fabio França | Data Analytics & Quantitative Research
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:142B4A,100:2563EB&height=170&section=header&text=Turning%20Data%20Into%20Decisions&fontSize=32&fontColor=FFFFFF&fontAlignY=55&desc=Analytics%20%7C%20Business%20%7C%20Technology&descSize=15&descAlignY=78&descColor=C7DDFB" width="100%" />
@@ -7,6 +7,9 @@
 <p align="center">
   <a href="https://github.com/fabiolfranca">
     <img src="https://img.shields.io/badge/GitHub-fabiolfranca-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/fabio-franca-41562b234/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fabiolfranca.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -81,9 +84,9 @@ I enjoy working at the intersection of **business, technology and data**.
 
 ---
 
-### 🌐 Personal Portfolio
+## 🌐 Personal Portfolio
 
-**[fabiolfranca.github.io](https://github.com/fabiolfranca/fabiolfranca.github.io)**
+**[fabiolfranca.github.io](https://fabiolfranca.github.io)**
 
 My personal portfolio, bringing together data projects, dashboards and professional work.
 
@@ -107,16 +110,18 @@ My personal portfolio, bringing together data projects, dashboards and professio
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect!
 
-I'm always interested in discussing data, technology, business, finance and new ideas.
+I'm always open to connecting with people who share an interest in data, technology, business and finance.
+
+Whether it's discussing ideas, sharing experiences, exploring opportunities or simply exchanging knowledge, feel free to reach out!
 
 <p align="center">
-  <a href="https://github.com/fabiolfranca">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/fabio-franca-41562b234/">
+    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://fabiolfranca.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://github.com/fabiolfranca">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
