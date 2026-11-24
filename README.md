@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-I'm **Fábio França**, a Business Data Science student at FATEC Votorantim, Brazil, currently working as a Data Analytics Intern at **Frasle Mobility**.
+I'm **Fabio França**, a Business Data Science student at FATEC Votorantim, Brazil, currently working as a Data Analytics Intern at **Frasle Mobility**.
 
 My interests go beyond writing code. I enjoy understanding business problems, exploring data, developing analytical solutions and discovering how technology can improve decision-making.
 
@@ -62,13 +62,17 @@ I enjoy working at the intersection of **business, technology and data**.
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### Programming & Machine Learning
+### Programming, Data Science & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
@@ -81,7 +85,6 @@ I enjoy working at the intersection of **business, technology and data**.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
-
 ---
 
 ## 🌐 Personal Portfolio
