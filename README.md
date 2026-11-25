@@ -102,6 +102,10 @@ My personal portfolio, bringing together data projects, dashboards and professio
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolfranca&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" />
 </p>
 
+<div align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
 ---
 
 ## 🎯 Currently Exploring
